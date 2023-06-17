@@ -1,0 +1,2 @@
+# TradingStrategy
+Trading strategy system
